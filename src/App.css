@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.div1{
+  text-align: center;
+  
+
+}
+.div2{
+  margin-top: 20px;
+}
+.div3{
+  text-align: center;
+  margin-left: 40%;
+  width: 450px;
+}
+.title{
+  margin-top: 20px;
+  color: brown;
+}
